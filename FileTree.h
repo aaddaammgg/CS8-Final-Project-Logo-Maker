@@ -1,0 +1,14 @@
+//
+// Created by Adam G.
+//
+
+#ifndef CS008_SFML_FINALPROJECT_FILETREE_H
+#define CS008_SFML_FINALPROJECT_FILETREE_H
+
+
+class FileTree {
+
+};
+
+
+#endif //CS008_SFML_FINALPROJECT_FILETREE_H
